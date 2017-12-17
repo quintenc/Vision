@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (opg2.1 - threshold operaties.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  opg2_1.cpp
+  opg2.1 - threshold operaties.vcxproj -> C:\Users\qtncl\source\repos\Vision\x64\Debug\opg2.1 - region of interest.exe
+  opg2.1 - threshold operaties.vcxproj -> C:\Users\qtncl\source\repos\Vision\x64\Debug\opg2.1 - region of interest.pdb (Partial PDB)

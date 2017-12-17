@@ -1,0 +1,8 @@
+﻿  mainTestBlobLabeling.cpp
+  blobdetectionavans.cpp
+c:\users\qtncl\documents\avans vision & robotics\mvr1\vision c++\opg3.2demo\blobdetectionavans.cpp(135): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\qtncl\documents\avans vision & robotics\mvr1\vision c++\opg3.2demo\blobdetectionavans.cpp(277): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  Generating Code...
+c:\users\qtncl\documents\avans vision & robotics\mvr1\vision c++\opg3.2demo\blobdetectionavans.cpp(429): warning C4715: 'getEntryNeighbour': not all control paths return a value
+  opg3.2 - blobdetection.vcxproj -> C:\Users\qtncl\source\repos\Vision\x64\Debug\opg3.2 - blobdetection.exe
+  opg3.2 - blobdetection.vcxproj -> C:\Users\qtncl\source\repos\Vision\x64\Debug\opg3.2 - blobdetection.pdb (Partial PDB)

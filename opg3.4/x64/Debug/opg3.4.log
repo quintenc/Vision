@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (opg3.4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  opg3_4.cpp
+c:\users\qtncl\source\repos\vision\opg3.4\opg3_4.cpp(104): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\qtncl\source\repos\vision\opg3.4\opg3_4.cpp(106): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\qtncl\source\repos\vision\opg3.4\opg3_4.cpp(107): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\qtncl\source\repos\vision\opg3.4\opg3_4.cpp(110): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\qtncl\source\repos\vision\opg3.4\opg3_4.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\qtncl\source\repos\vision\opg3.4\opg3_4.cpp(121): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  opg3.4.vcxproj -> C:\Users\qtncl\source\repos\Vision\x64\Debug\opg3.4 - blobdetect advanced.exe
+  opg3.4.vcxproj -> C:\Users\qtncl\source\repos\Vision\x64\Debug\opg3.4 - blobdetect advanced.pdb (Partial PDB)
